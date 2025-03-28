@@ -11,6 +11,7 @@ import Login from '../pages/Login'
 import Register from '../pages/Register'
 import SearchResultList from '../pages/SearchResultList'
 import ThankYou from '../pages/ThankYou'
+import Gallery from '../pages/Gallery'
 
 const Routers = () => {
   return (
@@ -19,6 +20,7 @@ const Routers = () => {
         <Route path='/home' element={<Home/>}/>
         <Route path='/about' element={<About/>}/>
         <Route path='/tours' element={<Tours/>}/>
+        <Route path='/gallery' element={<Gallery/>}/>
         <Route path='/tours/:id' element={<TourDetails/>}/>
         <Route path='/login' element={<Login/>}/>
         <Route path='/register' element={<Register/>}/>
