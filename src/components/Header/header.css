@@ -140,7 +140,12 @@
 @media only screen and (max-width:500px)
 {
     .logo img{
-        width: 70%;
+        width: 90px;
+    }
+    
+    .nav__right{
+
+        margin-left: 3px;
     }
     .menu{
         width: 120px;
