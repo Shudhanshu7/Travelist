@@ -1,4 +1,4 @@
-import React from "react";
+import React, {useEffect} from "react";
 import "../styles/home.css";
 
 import { Container, Row, Col } from "reactstrap";
@@ -17,6 +17,11 @@ import Testimonials from "../components/Testimonial/Testimonials";
 import Newsletter from "../shared/Newsletter";
 
 function About() {
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+  
   return (
     <>
       {/* Hero Section */}
