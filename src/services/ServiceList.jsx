@@ -10,7 +10,7 @@ const servicesData = [
   {
     imgUrl: weatherImg,
     title: "Calculate Weather",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    desc: "Stay ahead of the weather with Travelist! Get accurate, real-time weather updates tailored to your location. Whether you're planning a hike, a beach day, or just your daily commute, our app has you covered.",
   },
   {
     imgUrl: guideImg,
