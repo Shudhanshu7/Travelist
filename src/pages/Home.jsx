@@ -34,10 +34,7 @@ function Home() {
                   <span className="highlight"> memories</span>
                 </h1>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Est
-                  non pariatur rerum quis, voluptatum nisi enim doloremque quae
-                  perspiciatis iste. Ad vero voluptatum ab, deleniti dignissimos
-                  adipisci explicabo omnis id.
+                  Discover the world like never before with Travelist! Your ultimate travel companion, designed to make exploring new destinations effortless and exciting.
                 </p>
               </div>
             </Col>
