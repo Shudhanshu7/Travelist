@@ -20,7 +20,7 @@ const servicesData = [
   {
     imgUrl: customizationImg,
     title: "Customization",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat persp",
+    desc: "From personalized itineraries to real-time flight updates and local recommendations, [App Name] puts the world at your fingertips. Whether you're planning a weekend getaway or a grand adventure, our app helps you find the best deals on flights, hotels, and experiences.",
   },
 ];
 
