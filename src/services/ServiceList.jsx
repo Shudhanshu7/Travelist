@@ -15,12 +15,12 @@ const servicesData = [
   {
     imgUrl: guideImg,
     title: "Best Tour Guide",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat persp",
+    desc: "Discover the world like a local with Travelist's best-in-class tour guide feature! Whether you're exploring bustling cities or hidden gems, our interactive guide offers personalized recommendations, immersive audio tours, and insider tips curated by experts.",
   },
   {
     imgUrl: customizationImg,
     title: "Customization",
-    desc: "From personalized itineraries to real-time flight updates and local recommendations, [App Name] puts the world at your fingertips. Whether you're planning a weekend getaway or a grand adventure, our app helps you find the best deals on flights, hotels, and experiences.",
+    desc: "From personalized itineraries to real-time flight updates and local recommendations, Travelist puts the world at your fingertips. Whether you're planning a weekend getaway or a grand adventure, our app helps you find the best deals on flights, hotels, and experiences.",
   },
 ];
 
