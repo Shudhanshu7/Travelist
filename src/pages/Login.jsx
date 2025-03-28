@@ -1,4 +1,4 @@
-import React, { useState, useContext } from "react";
+import React, { useState, useContext, useEffect } from "react";
 import { Container, Row, Col, Form, FormGroup, Button } from "reactstrap";
 import { Link, useNavigate } from "react-router-dom";
 import "../styles/login.css";
@@ -10,6 +10,11 @@ import { AuthContext } from "./../context/AuthContext";
 import { BASE_URL } from "./../utils/config";
 
 function Login() {
+
+  useEffect(() => {
+        window.scrollTo(0, 0);
+      }, []);
+  
   const [credentials, setCredentials] = useState({
     email: undefined,
     password: undefined,
