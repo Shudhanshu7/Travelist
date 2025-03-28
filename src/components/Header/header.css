@@ -78,8 +78,8 @@
 /*============ make it responsive=========*/
 @media only screen and (max-width:992px)
 {
-    .logo img{
-        width: 70%;
+    .logo{
+        width: 350px;
     }
 
     .navigation{
@@ -128,8 +128,8 @@
 }
 
 @media only screen and (max-width: 768px){
-    .logo img {
-        width: 50%;
+    .logo img{
+        width: 120px;
     }
 
     .menu{
@@ -137,10 +137,10 @@
     }
 }
 
-@media only screen and (max-width:576px)
+@media only screen and (max-width:500px)
 {
     .logo img{
-        width: 70%;
+        width: 100px;
     }
     .menu{
         width: 120px;
