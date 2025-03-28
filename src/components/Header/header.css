@@ -79,7 +79,7 @@
 @media only screen and (max-width:992px)
 {
     .logo{
-        width: 350px;
+        width: 40%;
     }
 
     .navigation{
@@ -129,7 +129,7 @@
 
 @media only screen and (max-width: 768px){
     .logo img{
-        width: 120px;
+        width: 80%;
     }
 
     .menu{
@@ -140,7 +140,7 @@
 @media only screen and (max-width:500px)
 {
     .logo img{
-        width: 100px;
+        width: 70%;
     }
     .menu{
         width: 120px;
